@@ -166,6 +166,7 @@ fun Contenido(
 @Composable
 fun ScreenInicio() {
     Text("INICIO")
+<<<<<<< HEAD
 }
 
 @Composable
@@ -238,3 +239,6 @@ fun ScreenPost(navController: NavHostController, servicio: PostApiService, id: I
         }
     }
 }
+=======
+}
+>>>>>>> e3af838 (Implementar ScreenPosts y ScreenPost)
